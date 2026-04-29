@@ -1,4 +1,4 @@
-Pràctiques Python
+Pràctiques Python:
 En aquest repositori hi han 3 pràctiques de Python:
 1. Anem de compres      Arxius: Compres.py, Nif.py
 2. Calculadora          Arxiu: CalculadoraInteractiva.py
