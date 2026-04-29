@@ -1,1 +1,1 @@
-# Introduccio-a-la-Programacio
+Pràctiques Python
